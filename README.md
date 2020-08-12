@@ -1,14 +1,18 @@
-Introduction
+# Udacity Data Analyst Nanodegree Project 01 : Explore Weather Trends
+
+## Summary
+
 This project is one of the required projects in the Udacity Data Analyst Degree. The goal of this project was to analyze local and global temperature data and compare the local temperature with global temperature.
 
-First of all, local temperature and global temperatuers were extracted using SQL from a database provided by Udacity, and then a 7 - year Moving Average was calculated from both the global and local temperature to smooth out the lines in the excel graph.
+It was a good Introduction to Data Analysis as it made us experience the Data Analysis cycle, like defining the problem and then gathering data for it, and visualizing it and then stating our observations.
 
-At the end a Line Chart was made using Excel and couple of observation made based on the Line Chart.
+## Introduction
 
-My take on the project
+### The following tools were used in this project :
+  - **SQL** : It was used to extract both Local & Global Temperatures as a .CSV file from the database provided by udacity.
+  - **Excel** : Was used to create the 7 - year moving average using the .csv file and creating a Line Chart.
 
-It was a good Introduction to data analyzing as it made us experince the data analyst cycle, like defining the problem and then gathering data for it, and visualizing it and then stating our observations.
+### Files Description:
+  - **Project 1 - Explore Weather Trends.pdf** : A PDF file that contains a full report on the project, which contains how the project was done, and my observations from the Line Chart.
+  - **Global v.s. Riyadh.xlsx** : Contains the 7-year moving average for both the Local & Global Temperatures, and the Line Chart.
 
-Project 1 - Explore Weather Trends.pdf  holds all the project steps and how they were implemented.
-
-Gloabal V.S. Riyadh.xlsx, holds the data of the 7 - year moving average of both local and global temperatures, and the Line Chart.
